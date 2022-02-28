@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/81AqwYyZjzL._AC_SX679_.jpg",
+            "info": "Brand Apple, Model iPhone 12 Pro, Price in India 104900, Colour. Gold, Graphite, Pacific Blue, Silver"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg",
+            "info": "Brand Google, Model Google Pixel 5, Colour. Just Black Sorta Sage, Storage 64gb/128gb, Ram 6gb/8gb"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://www.zdnet.com/a/img/resize/b84b11ec8f9712f06e906db31890ee45965b5cfa/2020/11/16/37e33024-2892-4bb7-9d21-6ac6f7544def/apple-macbook-pro-m1-2020-5.jpg?auto=webp&width=768",
+            "info": "Apple MacBook Air (M1, 2020) "
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://assets-prd.ignimgs.com/2020/06/12/playstation-5-button-02-1591933908407.jpg",
+            "info": "Playstation 5, From Sony"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000",
+            "info": "Airpods Pro, truely Wireless From Apple"
+            
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104_FMT_WHH?wid=1945&hei=2000&fmt=jpeg&qlt=95&.v=1617126635000",
+            "info": "Brand Apple, Model IpadPro, Colours Phantom Titanium, Phantom Navy, Phantom Brown "
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra 5G",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://static.toiimg.com/thumb/resizemode-4,msid-74094964,imgsize-500,width-800/74094964.jpg",
+            "info": "Brand Samsung, Model S21 Ultra, Colours Phantom Titanium, Phantom Navy,"
+        }
+       
+    ]
+}
