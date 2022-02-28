@@ -6,7 +6,7 @@
             "desc": "Apple iPhone 12th generation",
             "price": 999,
             "color": "#33505a",
-            "image": "https://m.media-amazon.com/images/I/81AqwYyZjzL._AC_SX679_.jpg",
+            "image": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg",
             "info": "Brand Apple, Model iPhone 12 Pro, Price in India 104900, Colour. Gold, Graphite, Pacific Blue, Silver"
         },
         {
@@ -15,7 +15,7 @@
             "desc": "Google Pixel phone 5th generation",
             "price": 699,
             "color": "#00ac51",
-            "image": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg",
+            "image": "https://m.media-amazon.com/images/I/81AqwYyZjzL._AC_SX679_.jpg",
             "info": "Brand Google, Model Google Pixel 5, Colour. Just Black Sorta Sage, Storage 64gb/128gb, Ram 6gb/8gb"
         },
         {
@@ -24,7 +24,7 @@
             "desc": "Apple Macbook air with apple silicon",
             "price": 1099,
             "color": "#e0bfae",
-            "image": "https://www.zdnet.com/a/img/resize/b84b11ec8f9712f06e906db31890ee45965b5cfa/2020/11/16/37e33024-2892-4bb7-9d21-6ac6f7544def/apple-macbook-pro-m1-2020-5.jpg?auto=webp&width=768",
+            "image": "https://m.media-amazon.com/images/I/71an9eiBxpL._AC_SL1500_.jpg",
             "info": "Apple MacBook Air (M1, 2020) "
         },
         {
@@ -33,7 +33,7 @@
             "desc": "Sony Playstation 5th generation",
             "price": 500,
             "color": "#544ee4",
-            "image": "https://assets-prd.ignimgs.com/2020/06/12/playstation-5-button-02-1591933908407.jpg",
+            "image": "https://m.media-amazon.com/images/I/61TTTWm56wL._AC_SY355_.jpg",
             "info": "Playstation 5, From Sony"
         },
         {
@@ -61,7 +61,7 @@
             "desc": "Samsung Galaxy S21 Ultra 2021 edition",
             "price": 1299,
             "color": "#1c1c1c",
-            "image": "https://static.toiimg.com/thumb/resizemode-4,msid-74094964,imgsize-500,width-800/74094964.jpg",
+            "image": "https://m.media-amazon.com/images/I/61i9rG1L94S._AC_SS450_.jpg",
             "info": "Brand Samsung, Model S21 Ultra, Colours Phantom Titanium, Phantom Navy,"
         }
        
